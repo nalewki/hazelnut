@@ -14,7 +14,6 @@ The estimated time-to-first-shot.
 
 # Ingredients
 
-
 - 1.5 glass of hazelnuts
 - 1 liter of vodka (Absolut or any other)
 - 1.5 glass of sugar
@@ -24,9 +23,7 @@ The estimated time-to-first-shot.
 
 # Plan of attack
 
-
 ## Part 1: The hazelnut elixir
-***
 
 It's great if you can get whole hazelnuts in shells, but if you can't, the ones in skins are ok too.
 
@@ -46,9 +43,7 @@ Add vodka.
 
 Close the container and let the hazelnuts soak for two or three weeks. 
 
-
 ## Part 2: Aging
-***
 
 After two or three weeks, you can work with the elixir again.
 
